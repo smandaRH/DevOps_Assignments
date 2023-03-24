@@ -141,5 +141,18 @@ When I was adding the permissions or policies, I found that there are two types 
        The AWS Security Token Service (STS) is a web service that provides temporary security credentials for accessing AWS resources. STS enables you to request temporary security credentials that are short-lived and can be used to authenticate and authorize access to AWS resources.
        
        
+## Assignment 4
+
+Launch your linux instance in IAM and update your machine.
+
+![image](https://user-images.githubusercontent.com/88205562/227506857-2e53ca23-fb40-4d42-b874-ddfb6869a484.png)
+
+
+![image](https://user-images.githubusercontent.com/88205562/227506739-e6acc69b-bd04-4683-ad5b-60b788a2483b.png)
+
+
+I have granted full access to EC2, but I found an error. couldn't resolve it. Any suggestions, please?
+
+       
        
        
