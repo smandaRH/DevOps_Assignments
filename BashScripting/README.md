@@ -15,12 +15,12 @@
 - [X] Loops
 - [X] Script Input
 - [X] Script output
-- [ ] Send output from one script to another script
-- [ ] Strings Processing
-- [ ] Numbers and Arthematic 
-- [ ] Declare command
-- [ ] Arrays
-- [ ] Functions
+- [X] Send output from one script to another script
+- [X] Strings Processing
+- [X] Numbers and Arthematic 
+- [X] Declare command
+- [X] Arrays
+- [X] Functions
 - [ ] Files and Directories
 - [ ] Sending email via Script
 - [ ] Curl in Script
