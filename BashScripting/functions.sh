@@ -13,3 +13,11 @@ function Name()
 }
 
 Name "supraja"
+
+function Addition()
+{
+    
+    echo $(($1+$2))
+}
+
+Addition 4 9
