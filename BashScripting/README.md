@@ -21,11 +21,11 @@
 - [X] Declare command
 - [X] Arrays
 - [X] Functions
-- [ ] Files and Directories
-- [ ] Sending email via Script
-- [ ] Curl in Script
-- [ ] Professional Menus
-- [ ] Wait for filesystem events with inotify
+- [X] Files and Directories
+- [X] Sending email via Script
+- [X] Curl in Script
+- [X] Professional Menus
+- [X] Wait for filesystem events with inotify
 - [ ] Introduction to grep
 - [ ] Introduction to awk
 - [ ] Introduction to sed
